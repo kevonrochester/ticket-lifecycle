@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![Screenshot 2024-01-03 162446](https://github.com/kevonrochester/ticket-lifecycle/assets/155024615/c07f0d90-e429-4963-9a45-8cafad2288c8)
 ![Screenshot 2024-01-03 163159](https://github.com/kevonrochester/ticket-lifecycle/assets/155024615/07619a42-dc38-4c0e-848e-a74dba718cf5)
 ![Screenshot 2024-01-08 141411](https://github.com/kevonrochester/ticket-lifecycle/assets/155024615/8a62aa45-82e5-48e8-8975-a675bb04967b)
-![Screenshot 2024-01-09 133654](https://github.com/kevonrochester/ticket-lifecycle/assets/155024615/23cd8579-1af3-45fe-a9ff-e855752c6b9b)
+
 
 
 
@@ -46,18 +46,18 @@ First since we are using a virtual machine for this turtorial . We will go to Po
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-01-09 133654](https://github.com/kevonrochester/ticket-lifecycle/assets/155024615/23cd8579-1af3-45fe-a9ff-e855752c6b9b)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+We will login to osTicket with whatever your Credientials is.
+
+![Screenshot 2024-01-10 140840](https://github.com/kevonrochester/ticket-lifecycle/assets/155024615/74d7cc98-c77f-40fb-86e9-4f42e4e33673)
+
+To start creating tickets we will be going to http://localhost/osTicket/ and it should bring up your local server osTicket that we have previously created in the previous tutorial. 
+
+![Screenshot 2024-01-10 141753](https://github.com/kevonrochester/ticket-lifecycle/assets/155024615/bb75e1bc-4e2a-4186-ac3a-a5312150441e)
+
+
+We will click the blue bar "Open a New Ticket"> Fill out the contact form > Create Ticket >. I will create a few random tickets.
+
+
+
